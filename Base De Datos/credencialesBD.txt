@@ -1,7 +1,0 @@
-MYSQL
-host: kawkiwebmysql.cng264okayz4.us-east-1.rds.amazonaws.com
-MSSQL
-kawkiwebmssql.cng264okayz4.us-east-1.rds.amazonaws.com
-----------------------------------------------------------------------------
-usuario: admin
-contraseña: kawkiweb2025
